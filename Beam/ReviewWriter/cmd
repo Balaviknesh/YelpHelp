@@ -1,0 +1,1 @@
+python3 bq_dataflow_firestore.py --template_location gs://yelp_help_dataflow/dataflow_templates/BQtoDF --requirements_file requirements.txt --save_main_session --service_account_email=yelp-help-bq-df-controller@yelphelp.iam.gserviceaccount.com

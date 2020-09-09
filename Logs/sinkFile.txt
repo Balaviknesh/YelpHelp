@@ -1,0 +1,4 @@
+protoPayload.methodName="jobservice.jobcompleted"
+protoPayload.authenticationInfo.principalEmail="yh-ip-gcs-bq-df-trigger@yelphelp.iam.gserviceaccount.com"
+protoPayload.serviceData.jobCompletedEvent.job.jobConfiguration.load.destinationTable.tableId="Review"
+protoPayload.serviceData.jobCompletedEvent.eventName="load_job_completed"
